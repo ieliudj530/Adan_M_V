@@ -44,10 +44,10 @@ body {
 }
 
 .perfil img {
-    width: 120px;
-    height: 120px;
+    width: 180px;
+    height: 180px;
     object-fit: cover;
-    border-radius: 50%;
+    border-radius: 10px;
     border: 2px solid #e0e0e0;
 }
 
